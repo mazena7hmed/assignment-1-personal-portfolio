@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.header2{
+    color: #1a4a7e;
+    border-bottom: #1a4a7e 1px solid;
+
+
+}
+.clear{
+    clear: both;
+}
+
+
+
+/*  header */
+.header1{
+    width: 1125px;
+    height: auto;
+    background-color: #1a4a7e;
+     text-align: center;
+     border-radius: 28px;
+     margin-left: 10px;
+
+
+
+}
+.header1 h1{
+    color:#fff;
+}
+.header1 p{
+    margin-bottom:30px ;
+}
+.header1 a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 14px 24px;
+    border-radius: 999px ;
+    color: #fff;
+    border:1px solid #fff;
+    margin-bottom: 20px;
+
+    
+}
+
+/* ABOUT ME */
+.aboutme{
+    width: 1125px;
+    height: auto;
+    background-color: #fff;
+    border-radius: 24px;
+    padding: 36px;
+    border: 1px #e8eef5 solid;
+    margin-top: 10px;
+     margin-left: 10px;
+
+}
+.aboutme img{
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    float: left;
+    margin: 35px 35px;
+}
+.aboutme a{
+    padding: 16px 26px ;
+    background-color: #1a4a7e;
+    border-radius:8px ;
+    border: #fff 1px solid ;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    margin-top:10px;
+
+}
+.aboutme .paragraph{
+    margin-top: 90px;
+}
+.paragraph span{
+    color: #1a4a7e;
+    font-size: 20px;
+}
+/* my skills */
+
+.myskills{
+    width: 1125px;
+    background-color: #fff;
+    padding: 36px;
+    border-radius: 24px;
+    border: #e8eef5 1px solid;
+    margin-top: 10PX;
+         margin-left: 10px;
+
+}
+.myskills .card{
+    width: 231px;
+    height: 170px;
+    padding: 26px;
+    border-radius: 20px;
+    background-color: #f2faff;
+    float: left;
+    margin: 15px;
+}
+.card h3{
+    color: #1a4a7e;
+}
+
+
+/* Experience */
+
+.Experience{
+    width: 1125px;
+    background-color: #fff;
+    padding: 36px;
+    border-radius: 24px;
+    border: #e8eef5 1px solid;
+    margin: 10px;
+
+}
+.Experience .box{
+    background-color: #f8fafc;
+    width: 1052px;
+    padding:26px ;
+    border-left: 5px #1a4a7e solid;
+    border-radius: 20px;
+    margin: 10px;
+}
+.box img{
+    width: 91px;
+    height: 91px;
+    border-radius: 16px;
+    float: left;
+    margin-top:10px ;
+    margin-right: 10px;
+    border: 5px #1a4a7e solid;
+    padding: 12px;
+}
+.box #color-paragraph{
+    color: #1a4a7e;
+}
+/* >Contact me */
+.Contactme{
+    width: 1125px;
+    background-color: #1a4a7e;
+    padding: 36px;
+    border-radius: 28px;
+    margin: 10px;
+
+}
+.Contactme a{
+    color: #f8fafc;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 18px;
+    border: 1px solid #fff;
+    margin: 10px;
+
+}
+.Contactme h2{
+    color: #fff;
+     border-bottom: #fff 1px solid;
+}
